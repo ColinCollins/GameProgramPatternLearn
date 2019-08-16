@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitStone\\GameProgramPatternLearn\\ObserverDesign\\ObserverDesign.csproj": {}
+  },
+  "projects": {
+    "D:\\GitStone\\GameProgramPatternLearn\\ObserverDesign\\ObserverDesign.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitStone\\GameProgramPatternLearn\\ObserverDesign\\ObserverDesign.csproj",
+        "projectName": "ObserverDesign",
+        "projectPath": "D:\\GitStone\\GameProgramPatternLearn\\ObserverDesign\\ObserverDesign.csproj",
+        "packagesPath": "C:\\Users\\mayn\\.nuget\\packages\\",
+        "outputPath": "D:\\GitStone\\GameProgramPatternLearn\\ObserverDesign\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mayn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
